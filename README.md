@@ -1,6 +1,6 @@
 # Asteroids - PhaserJS 3 - Kurs
 
-![Phaser3 Kurs - Krzysztof Furtak](https://i.ibb.co/bmZ4g7W/Banner.jpg)
+![Phaser3 Kurs - Krzysztof Furtak](https://i.ibb.co/bmZ4g7W/Banner.jpg?v1)
 
 *KROK #1 - 3 sposoby na nowy projekt oraz omówienie konfiguracji*
 
